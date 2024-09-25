@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_HONORED_ONE",
+  "name": "High Priest",
+  "author": "JoshuaThePoor",
+  "version": "1.0.0"
+}
